@@ -3,6 +3,5 @@ title: The Franka Language
 ---
 Why Franka?
 
-* For a non-engineer
-* For machine learning
-* For an engineer
+* There is no syntax to learn.
+* It embraces change.
