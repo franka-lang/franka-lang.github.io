@@ -1,7 +1,8 @@
 ---
 title: The Franka Language
 ---
-Why Franka?
 
-* Skip the syntax
-* Embrace change
+# Features
+
+## No Syntax To Learn
+## Changes Are Welcome
